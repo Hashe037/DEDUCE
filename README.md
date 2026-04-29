@@ -1,4 +1,4 @@
-# DEUCE
+# DEDUCE
 This code is for the Dataset Enrichment through Discovery of Underrepresented Conditions and Environments (DEDUCE) pipeline, which was published as "Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation" at the SPIE DCS 2026 conference.
 
 To replicate paper results, we include a link to models and datasets located here: **FILL IN WHEN PUBLISHED**. Each pipeline run relies heavily on information provided in the config files in the codebase, which must be changed based on the location of the models and dataset paths.
